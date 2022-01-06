@@ -1,11 +1,11 @@
 body{
-    font-family: 'Lobster', cursive;
-    margin-left: 3%;
-    margin-right: 3%;
+    font-family: 'Righteous', cursive;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-top: 5%;
 }
 .margin{
-    margin-bottom: 8%;
+    margin-bottom: 7%;
 }
 span{
     color: rgb(18, 122, 18);
@@ -22,7 +22,7 @@ h2{
     border-radius: 10%;
     color: white;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 500;
 }
 .first{
     display: flex;
@@ -61,7 +61,7 @@ h2{
     padding-right: 20%;
 }
 .fifth img{
-    width: 192%;
+    width: 190%;
 }
 .bd-img{
     background-repeat: no-repeat;
@@ -88,25 +88,25 @@ footer{
 .back1{
     background-color: rgb(139, 196, 66);
     border-radius: 10%;
-    width: 400px;
-    padding: 30px;
-    margin: 5%;
+    width: 30%;
+    padding: 40px;
+    margin: 1%;
     display: table;
 }
 .back2{
     background-color: lightgreen;
     border-radius: 10%;
-    width: 400px;
-    padding: 30px;
-    margin: 5%;
+    width: 30%;
+    padding: 40px;
+    margin: 1%;
     display: table;
 }
 .back3{
     background-color: lightskyblue;
     border-radius: 10%;
-    width: 400px;
-    padding: 30px;
-    margin: 5%;
+    width: 30%;
+    padding: 40px;
+    margin: 1%;
     display: table;
 }
 .i-m{

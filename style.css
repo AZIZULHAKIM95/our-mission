@@ -22,6 +22,10 @@ h2{
 .first{
     display: flex;
 }
+.id1{
+    border-left: 5px solid rgb(76, 179, 45);
+    border-radius: 0.8%;
+}
 .second{
     width: 50%;
     padding-left: 20%;
@@ -30,16 +34,7 @@ h2{
 .second img{
     width: 200%;
 }
-.id1{
-    border-left: 5px solid rgb(76, 179, 45);
-    border-radius: 0.8%;
-}
-.third{
-    background-image: url(shape-5.png);
-    background-repeat: no-repeat;
-    padding-left: 1%;
-    background-position: left;
-}
+
 .forth{
     width: 50%;
     padding-left: 10%;
@@ -49,7 +44,20 @@ h2{
     width: 200%;
 }
 .bc-img{
-    background-image: url(images/shapes/dream-bg.png);
+    background-image: url(images/shapes/gh.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+.fifth{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+.fifth img{
+    width: 192%;
+}
+.bd-img{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url(images/shapes/kk.jpg);
 }

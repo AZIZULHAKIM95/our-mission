@@ -17,6 +17,9 @@ h2{
     font-size: 40px;
 }
 .zero{
+    display: flex;
+}
+.first{
     background-color: rgb(2, 104, 19);
     padding: 10px 30px;
     border-radius: 10%;
@@ -24,9 +27,7 @@ h2{
     text-decoration: none;
     font-weight: 500;
 }
-.first{
-    display: flex;
-}
+
 .id1{
     border-left: 5px solid rgb(76, 179, 45);
     border-radius: 0.8%;
@@ -42,49 +43,6 @@ h2{
 #id2{
     text-align: center;
 }
-.forth{
-    width: 50%;
-    padding-left: 10%;
-    padding-right: 20%;
-}
-.forth img{
-    width: 200%;
-}
-.bc-img{
-    background-image: url(images/shapes/gh.png);
-    background-repeat: no-repeat;
-    background-position: left;
-}
-.fifth{
-    width: 50%;
-    padding-left: 10%;
-    padding-right: 20%;
-}
-.fifth img{
-    width: 190%;
-}
-.bd-img{
-    background-repeat: no-repeat;
-    background-position: right;
-    background-image: url(images/shapes/kk.jpg);
-}
-.third{
-    text-align: center;
-}
-.seven{
-    width: 50%;
-    padding-left: 10%;
-    padding-right: 20%;
-}
-.seven img{
-    width: 170%;
-}
-footer{
-    text-align: center;
-    background-color: black;
-    color: rgb(7, 155, 74);
-    padding: 3%;
-}
 .back1{
     background-color: rgb(139, 196, 66);
     border-radius: 10%;
@@ -92,6 +50,9 @@ footer{
     padding: 40px;
     margin: 1%;
     display: table;
+}
+.i-m{
+    height: 200px;
 }
 .back2{
     background-color: lightgreen;
@@ -109,6 +70,46 @@ footer{
     margin: 1%;
     display: table;
 }
-.i-m{
-    height: 200px;
+.forth{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+.forth img{
+    width: 200%;
+}
+.bc-img{
+    background-image: url(images/shapes/gh.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.bd-img{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url(images/shapes/kk.jpg);
+}
+.fifth{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+.fifth img{
+    width: 190%;
+}
+.center{
+    text-align: center;
+}
+.seven{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+.seven img{
+    width: 170%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: rgb(7, 155, 74);
+    padding: 3%;
 }

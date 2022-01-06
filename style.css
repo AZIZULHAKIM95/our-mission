@@ -11,10 +11,10 @@ span{
     color: rgb(18, 122, 18);
 }
 h1{
-    font-size: 50px;
+    font-size: 55px;
 }
 h2{
-    font-size: 35px;
+    font-size: 40px;
 }
 .zero{
     background-color: rgb(2, 104, 19);
@@ -39,7 +39,9 @@ h2{
 .second img{
     width: 200%;
 }
-
+#id2{
+    text-align: center;
+}
 .forth{
     width: 50%;
     padding-left: 10%;
@@ -82,4 +84,31 @@ footer{
     background-color: black;
     color: rgb(7, 155, 74);
     padding: 3%;
+}
+.back1{
+    background-color: rgb(139, 196, 66);
+    border-radius: 10%;
+    width: 400px;
+    padding: 30px;
+    margin: 5%;
+    display: table;
+}
+.back2{
+    background-color: lightgreen;
+    border-radius: 10%;
+    width: 400px;
+    padding: 30px;
+    margin: 5%;
+    display: table;
+}
+.back3{
+    background-color: lightskyblue;
+    border-radius: 10%;
+    width: 400px;
+    padding: 30px;
+    margin: 5%;
+    display: table;
+}
+.i-m{
+    height: 200px;
 }

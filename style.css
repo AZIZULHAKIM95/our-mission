@@ -75,3 +75,9 @@ h2{
 .seven img{
     width: 170%;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    color: rgb(7, 155, 74);
+    padding: 3%;
+}

@@ -8,11 +8,14 @@ span{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 35px;
+}
 .zero{
-    background-color: seagreen;
+    background-color: green;
     padding: 10px 30px;
     border-radius: 10%;
-    color: seashell;
+    color: white;
     text-decoration: none;
     font-weight: 600;
 }
@@ -30,4 +33,23 @@ h1{
 .id1{
     border-left: 5px solid rgb(76, 179, 45);
     border-radius: 0.8%;
+}
+.third{
+    background-image: url(shape-5.png);
+    background-repeat: no-repeat;
+    padding-left: 1%;
+    background-position: left;
+}
+.forth{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 20%;
+}
+.forth img{
+    width: 200%;
+}
+.bc-img{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
